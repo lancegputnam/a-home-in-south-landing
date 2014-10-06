@@ -1,0 +1,8 @@
+{
+  "name": "a-home-in-south-coming-soon",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0"
+  },
+  "devDependencies": {}
+}
